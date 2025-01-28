@@ -1,2 +1,10 @@
-##Aplicativo para Instalar vídeos e musicas do YouTube
+# Aplicativo para Instalar vídeos e musicas do YouTube
+
+Tecnologias utilizadas:
+  * Python
+  * pytubefix
+  
+  
+
+
 
