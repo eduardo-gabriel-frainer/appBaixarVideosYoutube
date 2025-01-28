@@ -31,9 +31,9 @@ para rodar o código você precisa da biblioteca pytubefix, para instalá-la voc
 Se o YouYube identificar que a requisição foi feita por um Bot ele vai pedir um código para fazer a autenticação.
 
 * Passo 1: Quando o script for executado, ele irá solicitar um código de autenticação. O código aparecerá na tela, por exemplo:
-Please open https://www.google.com/device and input code YWN-QLH-HLBF
+Please open https://www.google.com/device and input code YFN-QLH-HFBF
 * Passo 2: Abra o navegador e vá para o site https://www.google.com/device.
-* Passo 3: No site, insira o código fornecido (exemplo: YWN-QLF-HLBF) no campo indicado.
+* Passo 3: No site, insira o código fornecido (exemplo: YFN-QLH-HFBF) no campo indicado.
 * Passo 4: Clique no botão para autorizar o acesso ao YouTube.
 * Passo 5: Após a autenticação ser concluída, volte para o terminal e pressione Enter. O processo de download do vídeo será iniciado.
 
